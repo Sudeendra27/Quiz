@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the capital of India?",
+      "options": ["London", "Delhi", "Berlin", "Rome"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who wrote 'Revolution2020'?",
+      "options": ["Chetan bhagat", "Amish tripati", "R.K.Narayan", "Rajagopalachari"],
+      "correctIndex":0
+    },
+    {
+      "question": "What is the chemical symbol for pottasium?",
+      "options": ["O", "H", "W", "K"],
+      "correctIndex": 3
+    }
+  ]
+  
